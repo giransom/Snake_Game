@@ -15,4 +15,4 @@ This project is a spin on the traditional snake game, by adding a 8x8 LED matrix
 | 8x8 Dot Module | Acts as the display module for the game | $11.99 | <a href="https://www.amazon.com/ALAMSCN-MAX7219-Display-Raspberry-Microcontroller/dp/B08SQT9GGB/ref=sr_1_6?crid=EKB5YLZR2HRK&dib=eyJ2IjoiMSJ9.lHn6ZkDX4LEZ7Ag3-iCVXkFy7AXOPnp8v63jOLxAmizkaIMzHuZ6uT2s0JzIluA3ko66s56GuMW1AGlSd-h6K2-o5PgwfC1bLVk4-fEAsC_eIk5rG1eQntpYE8r7f3n88i4820SV7pl6TGShXrL9kW5-xE8HLZhcR1elb6u89Ss_SfVXTjGivtdHnL8Cei6I1G6HMk1e9Kgd1WVlb7I5ADovI-1whA1zWSyCTRbxJXs.K3RJmUVOK4B7LVNGKwbYcPPfv60-65vChh7tsdXvQ5g&dib_tag=se&keywords=max7219+8x8+dot+matrix+module&qid=1780953289&sprefix=8x8+dot+modu%2Caps%2C144&sr=8-6"> Link </a> |
 
 # Sources
-- [Original Project Instructions]([https://www.instructables.com/Routine-Reinforcement-Armband/](https://github.com/Kneschtie/Arduino-Snake-Game))
+- [Original Project Instructions](https://github.com/Kneschtie/Arduino-Snake-Game)
