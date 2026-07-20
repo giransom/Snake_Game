@@ -16,3 +16,4 @@ This project is a spin on the traditional snake game, by adding a 8x8 LED matrix
 
 # Sources
 - [Original Project Instructions](https://github.com/Kneschtie/Arduino-Snake-Game)
+- [Original Project Instructions](https://docs.sunfounder.com/projects/3in1-kit-v2/en/latest/index.html)
