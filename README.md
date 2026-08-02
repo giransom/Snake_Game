@@ -9,6 +9,8 @@ This project is a spin on the traditional snake game, by adding a 8x8 LED matrix
 # Schematics
 ![Headstone Image](Snake_Game_Schematic.png)
 
+# Project Notes: Challenges & Fixes
+In the recreation of this project I found many issues with the actual assembly of the project. When I originally attempted to assemble the circuit the module I first order came unsoldered, which posed an issue since I did not have a soldering iron available. As a result, I ordered a new LED module which came pre assembled. 
 
 # Materials Required
 
