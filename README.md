@@ -6,6 +6,10 @@ This project is a spin on the traditional snake game, by adding a 8x8 LED matrix
 # Code
 - [Complete Snake Game Code](Snake_Game.ino)
 
+# Schematics
+![Headstone Image](Snake_Game_Schematic.png)
+
+
 # Materials Required
 
 | **Part** | **Note** | **Price** | **Link** |
